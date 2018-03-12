@@ -2,13 +2,8 @@
 <!-- Base application theme. -->
 <style name="AppTheme" parent="Theme.AppCompat.Light">
     <!-- Primary theme color of the app (sets background color of app bar) -->
-    <item name="colorPrimary">#FF9800</item>
+    <item name="colorPrimary">#C8102E</item>
     <!-- Background color of buttons in the app -->
-    <item name="colorButtonNormal">#FF9800</item>
+    <item name="colorButtonNormal">#C8102E</item>
 </style>
-
-<view>
-    @android:color/darker_gray
-    @android:width="1dp"
-</view>
 </resources>
